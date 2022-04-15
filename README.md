@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Quinnn2
+- 👀 I’m interested in front-end web developement.
+- 🌱 I’m currently learning html and css.
